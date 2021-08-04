@@ -1,8 +1,8 @@
-## Bienvenido a Test-04            [Desactivar el modo oscuro](https://oscar-04.github.io/Test-04)
+## Bienvenido a Test-04           
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
 
-
+##[Desactivar el modo oscuro](https://oscar-04.github.io/Test-04)
 
 ## ¿Usar por primera vez? 
 [Registrarse aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
