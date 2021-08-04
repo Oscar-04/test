@@ -2,11 +2,18 @@
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
 
+
+
 ##¿Usar por primera vez?  [Registrarse aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
+
+
 
 ##¿Ya registrado? [Iniciar sección aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
 
+
+
 ##¿Hacer pregunta?
+
 
 
 ##¿Quieres contribuir a nuestra comunidad?
