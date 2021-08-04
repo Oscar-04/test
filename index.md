@@ -4,11 +4,13 @@ En este sitio web puedes preguntar sobre materias o cualquier tema relacionados 
 
 
 
-## ¿Usar por primera vez?  [Registrarse aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
+## ¿Usar por primera vez? 
+[Registrarse aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
 
 
 
-## ¿Ya registrado? [Iniciar sección aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
+## ¿Ya registrado? 
+[Iniciar sección aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
 
 
 
