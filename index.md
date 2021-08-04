@@ -29,3 +29,11 @@ Puede ayudarnos a responder las preguntas de otros.[Portal]
 ##¿Cuáles son sus expectativas como grupo?
  
  Ayude a los estudiantes😎
+ 
+ 
+ ## Proyecto mantenido por:
+#Oscar
+#Rocío
+#Sebastián
+#José
+#Javier
