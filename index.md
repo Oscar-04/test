@@ -26,6 +26,6 @@ Puede ayudarnos a responder las preguntas de otros.[Portal]
 ## Preguntas y respuestas(Q＆A)
 
 
-## ¿Cuáles son sus expectativas como grupo?
+##¿Cuáles son sus expectativas como grupo?
  
  Ayude a los estudiantes😎
